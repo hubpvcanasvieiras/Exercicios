@@ -1,2 +1,1 @@
-* [/blob/master/aula1/README.md] aula 1 
-  
+* [aula 1](https://github.com/hubpvcanasvieiras/Exercicios/tree/master/aula1)
